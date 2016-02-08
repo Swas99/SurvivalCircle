@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Survival Circle</string>
+
+
+    <!--ad publisher ID-->
+    <string name="banner_ad_unit_id">ca-app-pub-4622920858510017/6317137286</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-4622920858510017/7793870489</string>
+
+    <string name="signing_in">Signing in with Google</string>
+    <string name="signing_out">Signing out</string>
+    <string name="achievements_not_available">Please sign in to view achievements.</string>
+    <string name="leaderboards_not_available">Please sign in to view leader-boards.</string>
+    <string name="show_achievements">Show Achievements</string>
+    <string name="show_leaderboards">Show Leader-boards</string>
+    <string name="sign_in_why">Sign in with Google to share your scores and achievements.</string>
+    <string name="you_are_signed_in">You are signed in with Google.</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sign_in_to_upload_this_score">Sign in now to upload this score, save your achievements and share your progress with friends.</string>
+    <string name="signin_other_error">There was an issue with sign in. Please try again later.</string>
+    <string name="sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+    <string name="license_failed">License check failed.</string>
+    <string name="unknown_error">Unknown error.</string>
+
+
+    <string name="help">help</string>
+    <string name="score_text">SCORE</string>
+    <string name="instruction_3">stay inside circle</string>
+    <string name="intruction_4">tap to move\nthe black dot</string>
+    <string name="settings_text">Settings</string>
+    <string name="music_text">Music:</string>
+    <string name="sound_text">Sound:</string>
+    <string name="vibration_text">Vibration:</string>
+    <string name="best_score_text">Best score:</string>
+    <string name="total_score_text">Total Score:</string>
+    <string name="average_score_text">Average score:</string>
+    <string name="games_played_text">Games Played:</string>
+    <string name="proverb_1">Simplicity is the ultimate sophistication.</string>
+    <string name="leonardo_da_vinci">- Leonardo da Vinci</string>
+    <string name="score_to_reach_text">SCORE TO REACH</string>
+    <string name="circle_text">CIRCLE</string>
+    <string name="survival_text">SURVIVAL</string>
+
+</resources>
