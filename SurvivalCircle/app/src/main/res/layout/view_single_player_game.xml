@@ -226,9 +226,6 @@
             android:textScaleX="1.1"
             android:text="@string/intruction_4"/>
 
-
-
-
     </RelativeLayout>
 
 
